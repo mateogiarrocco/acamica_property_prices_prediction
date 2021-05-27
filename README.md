@@ -3,7 +3,7 @@
 # Ingeniería de features, Modelos avanzados e Interpretación de modelos (Proyecto n°2)
 
 ### Resumen del proyecto
-###### Aplica transformación de datos y entrena Modelos Avanzados para desarrollar con mayor profundidad tu modelo de Machine Learning. ¿Qué puedes aprender del problema que estás abordando mediante el estudio de tu propio modelo?
+##### Aplica transformación de datos y entrena Modelos Avanzados para desarrollar con mayor profundidad tu modelo de Machine Learning. ¿Qué puedes aprender del problema que estás abordando mediante el estudio de tu propio modelo?
 
 #### Recursos:
 Dataset properati (es el mismo que en el Proyecto 01): https://drive.google.com/uc?export=download&id=1Ugbsw5XbNRbglomSQO1qkAgMFB_3BzmB
